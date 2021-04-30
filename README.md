@@ -30,7 +30,7 @@
 • Concept of Lowering
 
 
-** BenchmarkDotNet **
+**BenchmarkDotNet**
 
 A Benchmark is a test that you run to measure how fast your code is..
 
