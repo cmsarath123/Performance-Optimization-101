@@ -58,13 +58,13 @@ For NodeJS people! https://github.com/marak/Faker.js/
 When structs are not part of a class, they are allocated on the **Stack** and don’t require garbage collection at all (stack unwinding).
 
 
-**Full guidelines from Microsoft https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct
+Full guidelines from Microsoft https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct
 
-**guidelines/choosing-between-class-and-struct**](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)
+guidelines/choosing-between-class-and-struct - https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct
 
-** Is Clean code actually slower ? **
-** Is LINQ actually slower ? **
-** When to use Value Task instead of Task and save precious memory ? **
+**Is Clean code actually slower ?**
+**Is LINQ actually slower ?**
+**When to use Value Task instead of Task and save precious memory ?**
 
 
 **Span<T>**
@@ -85,7 +85,7 @@ Almost no overhead
 
 
 
-**ArrayPool **
+**ArrayPool**
 
 Pool of array for re-use
 
