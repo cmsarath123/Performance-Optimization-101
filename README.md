@@ -34,9 +34,9 @@
 
 A Benchmark is a test that you run to measure how fast your code is..
 
-[~~https://github.com/dotnet/BenchmarkDotNet~~](https://github.com/dotnet/BenchmarkDotNet)
+https://github.com/dotnet/BenchmarkDotNet
 
-[~~https://benchmarkdotnet.org/articles/overview.html~~](https://benchmarkdotnet.org/articles/overview.html)
+https://benchmarkdotnet.org/articles/overview.html
 
 Install-Package BenchmarkDotNet
 
@@ -45,22 +45,22 @@ Install-Package BenchmarkDotNet
 
 will help you load databases, UI and apps with fake data for your testing needs
 
-[~~https://github.com/bchavez/Bogus~~](https://github.com/bchavez/Bogus)
+https://github.com/bchavez/Bogus
 
 Install-Package Bogus
 
-For NodeJS people! [~~https://github.com/marak/Faker.js/~~](https://github.com/marak/Faker.js/)
+For NodeJS people! https://github.com/marak/Faker.js/
 
-** Struct Vs Class **
+**Struct Vs Class**
 
 **structs** have several benefits when it comes to deallocation:
 
 When structs are not part of a class, they are allocated on the **Stack** and don’t require garbage collection at all (stack unwinding).
 
 
-**Full guidelines from Microsoft [https://docs.microsoft.com/en-us/dotnet/standard/design-**](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)**
+**Full guidelines from Microsoft https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct
 
-[**guidelines/choosing-between-class-and-struct**](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)
+**guidelines/choosing-between-class-and-struct**](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)
 
 ** Is Clean code actually slower ? **
 ** Is LINQ actually slower ? **
