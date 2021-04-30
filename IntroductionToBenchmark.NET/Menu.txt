@@ -1,0 +1,39 @@
+﻿Code Samples menu..
+________________________________________________________________________________________
+
+Level 0 programs (easy) - To Understand Benchmark.NET & Bogus libraries
+    
+    #1 Sleeps
+    #2 Md5VsSha256
+    #3 BogusExample
+        
+Level 1 programs (medium complexity)
+    
+    #4 StringBuilder vs String
+    #5 DateTime Parser
+    #6 Struct vs Class
+        
+Level 2 - use cases (high complexity)
+    
+    Is Clean code actually slower ?
+        
+        #7 with dynamic data (library Bogus)
+        #8 with static Data
+        #9 with API Calls
+    
+    Is LINQ actually slower ?
+        
+        #10 LINQ - count of alcoholic drinks (where + count, count with predicate, for, foreach loops with counts)
+        #11 LINQ - names of non alcoholic drinks (for loop, where + select + ToList
+    
+    When to use ValueTask instead of Task and save precious memory ?
+        #12 Task Vs ValueTask
+
+    Span<T>
+        #13 Span<T> (Array vs Span)
+
+    ArrayPool<T>
+        #14 ArrayPool<T>
+________________________________________________________________________________________
+
+Enter your choice  (press 0 to exit)
